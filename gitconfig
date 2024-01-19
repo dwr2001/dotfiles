@@ -1,0 +1,9 @@
+[core]
+	autocrlf = input
+	editor = vim --nofork
+	quotepath = false
+[diff]
+	tool = vimdiff
+[user]
+	name = Duan Wenrui
+	email = isduanwenrui2001@163.com
