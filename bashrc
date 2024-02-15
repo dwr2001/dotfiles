@@ -42,8 +42,9 @@ function bash_prompt() {
     local BLUE='\[\033[01;34m\]'
     local CYAN='\[\033[01;36m\]'
     local RESET='\[\033[00m\]'
+    local IBEAM='\033[6 q'
 
-    local prompt="${GREEN}\u@\h${RESET}:${BLUE}\W${YELLOW} $(git_prompt)${RESET}\$ "
+    local prompt="${GREEN}\u@\h${RESET}:${BLUE}\W${YELLOW} $(git_prompt)${RESET}\$ ${IBEAM}"
 
     if [ "${ex}" -eq 0 ]; then
         PS1="${prompt}"
@@ -52,7 +53,10 @@ function bash_prompt() {
     fi
 }
 
-# alias definitions.
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
