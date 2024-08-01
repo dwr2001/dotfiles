@@ -42,9 +42,8 @@ function bash_prompt() {
     local BLUE='\[\033[01;34m\]'
     local CYAN='\[\033[01;36m\]'
     local RESET='\[\033[00m\]'
-    local IBEAM='\033[6 q'
 
-    local prompt="${GREEN}\u@\h${RESET}:${BLUE}\W${YELLOW} $(git_prompt)${RESET}\$ ${IBEAM}"
+    local prompt="${GREEN}\u@\h${RESET}:${BLUE}\W${YELLOW} $(git_prompt)${RESET}\$ "
 
     if [ "${ex}" -eq 0 ]; then
         PS1="${prompt}"
