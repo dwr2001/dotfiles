@@ -22,7 +22,7 @@ set wildmode=list:longest   " completion mode used for the character specified w
 
 
 " => Vim user interface
-set number  " 
+set number          " precede each line with its line number
 set cursorcolumn    " highlight the column of the cursor
 set cursorline      " highlight the line of the cursor
 
@@ -45,8 +45,8 @@ set statusline+=\ %y                " type of file
 
 
 " => Mouse behaviour
-set mouse=a
-set mousefocus
+set mouse=a     " make mouse enable in all modes
+set mousefocus  " automatically activate the mouse in the current window
 
 
 " => hjkl Enhanced
