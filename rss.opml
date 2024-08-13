@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>dwr2001's opml export</title>
+  </head>
+  <body>
+    <outline title="Daily" text="Daily">
+      <outline title="Hacker News Daily" text="Hacker News Daily" type="rss" htmlUrl="https://www.daemonology.net/hn-daily" xmlUrl="https://www.daemonology.net/hn-daily/index.rss" />
+    </outline>
+    <outline title="Weekly" text="Weekly">
+      <outline title="This Week in Rust" text="This Week in Rust" type="rss" htmlUrl="https://this-week-in-rust.org" xmlUrl="https://this-week-in-rust.org/rss.xml" />
+    </outline>
+    <outline title="Anytime" text="Anytime">
+      <outline title="Debian News" text="Debian News" type="rss" htmlUrl="https://www.debian.org/News" xmlUrl="https://www.debian.org/News/news" />
+      <outline title="Phoronix" text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com" xmlUrl="https://www.phoronix.com/rss.php" />
+      <outline title="RISC-V International" text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed" />
+      <outline title="阮一峰的网络日志" text="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
+    </outline>
+  </body>
+</opml>
