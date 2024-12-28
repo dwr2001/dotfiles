@@ -16,5 +16,8 @@
       <outline title="RISC-V International" text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed" />
       <outline title="阮一峰的网络日志" text="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
     </outline>
+    <outline title="Personal" text="Personal">
+      <outline title="Lil&apos;Log" text="Lil&apos;Log" type="rss" htmlUrl="https://lilianweng.github.io" xmlUrl="https://lilianweng.github.io/index.xml" />
+    </outline>
   </body>
 </opml>
