@@ -6,7 +6,21 @@
 
 ## Installation
 
-TODO:
+```shell
+# bash
+cp bashrc ~/.bashrc
+cp bash_aliases ~/.bash_aliases
+cp bash_logout ~/.bash_logout
+
+# git
+cp gitconfig ~/.gitconfig
+
+# ssh
+cp sshconfig ~/.ssh/config
+
+# vim
+cp vimrc ~/.vimrc
+```
 
 ## Acknowledgments
 
