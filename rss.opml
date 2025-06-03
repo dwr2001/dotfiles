@@ -8,12 +8,15 @@
       <outline title="Hacker News Daily" text="Hacker News Daily" type="rss" htmlUrl="https://www.daemonology.net/hn-daily" xmlUrl="https://www.daemonology.net/hn-daily/index.rss" />
     </outline>
     <outline title="Weekly" text="Weekly">
+      <outline title="Koala 聊开源" text="Koala 聊开源" type="rss" htmlUrl="https://koala-oss.app" xmlUrl="https://koala-oss.app/rss.xml" />
       <outline title="This Week in Rust" text="This Week in Rust" type="rss" htmlUrl="https://this-week-in-rust.org" xmlUrl="https://this-week-in-rust.org/rss.xml" />
     </outline>
     <outline title="Anytime" text="Anytime">
+      <outline title="ACM Computing Surveys" text="ACM Computing Surveys" type="rss" htmlUrl="https://dl.acm.org/loi/csur?af=R" xmlUrl="https://dl.acm.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=csur" />
       <outline title="Debian News" text="Debian News" type="rss" htmlUrl="https://www.debian.org/News" xmlUrl="https://www.debian.org/News/news" />
       <outline title="Phoronix" text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com" xmlUrl="https://www.phoronix.com/rss.php" />
       <outline title="RISC-V International" text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed" />
+      <outline title="Visual Studio Code" text="Visual Studio Code" type="rss" htmlUrl="https://code.visualstudio.com" xmlUrl="https://code.visualstudio.com/feed.xml" />
       <outline title="阮一峰的网络日志" text="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
     </outline>
     <outline title="Personal" text="Personal">
