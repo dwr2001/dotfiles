@@ -1,0 +1,15 @@
+{
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.fontFamily": "'JetBrains Mono', 'Noto Sans CJK SC', monospace",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80, 120],
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "window.commandCenter": false,
+  "window.titleBarStyle": "native",
+  "workbench.colorTheme": "Default High Contrast",
+  "workbench.layoutControl.enabled": false,
+  "workbench.preferredDarkColorTheme": "Default High Contrast",
+}

@@ -3,6 +3,7 @@
 ## Requirements
 
 + [Vim 9.0](https://www.vim.org/vim90.php)
++ [VS Code](https://code.visualstudio.com)
 
 ## Installation
 
@@ -20,6 +21,8 @@ cp sshconfig ~/.ssh/config
 
 # vim
 cp vimrc ~/.vimrc
+
+cp settings.json ~/.config/Code/User/settings.json
 ```
 
 ## Acknowledgments
